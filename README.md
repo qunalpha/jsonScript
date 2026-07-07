@@ -1,7 +1,7 @@
 # jsonScript
 ----
 
-![Alt Meme]([image_url](https://c.tenor.com/qbniG54hkS8AAAAd/tenor.gif))
+![Alt Meme]([image_url](https://c.tenor.com/qbniG54hkS8AAAAd/tenor.gif "j(SON)")
 
 A script made to help you i.e. save config files of a settings and make it accessible
 
