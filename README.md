@@ -1,7 +1,7 @@
 # jsonScript
 ----
 
-![Alt Meme]([image_url](https://c.tenor.com/qbniG54hkS8AAAAd/tenor.gif "j(SON)")
+<img width="498" height="331" alt="meme-son-meme" src="https://github.com/user-attachments/assets/fabb2b5d-c514-4392-9576-1526dd58b61c" />
 
 A script made to help you i.e. save config files of a settings and make it accessible
 
