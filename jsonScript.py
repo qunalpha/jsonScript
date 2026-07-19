@@ -2,7 +2,7 @@ import json
 import os, shutil, sys
 
 # Made by Qunalpha
-version = "1.1"
+version = "1.2"
 
 class jsonFileManagment():
     def __init__(self, path: str, tuple_list: list, indent: int=4):
@@ -94,6 +94,7 @@ class jsonDatabase():
     def reset(self):
         with open(self.path, "w") as file:
             json.dump(self.default, file, indent=self.indent)
+        self.array = []
 
     def ensure_writable_resource(self, filename):
         user_path = os.path.join(os.getcwd(), filename)
